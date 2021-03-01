@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/obelix:8080\/coursewares\/containers\/#1"
+                 "value":"http:\/\/obelix.camptocamp.com:8080\/coursewares\/containers\/#1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/obelix:8080\/coursewares\/terraform\/#8"
+                 "value":"http:\/\/obelix.camptocamp.com:8080\/coursewares\/terraform\/#8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/obelix:8080\/coursewares\/geonetwork\/#1"
+                 "value":"http:\/\/obelix.camptocamp.com:8080\/coursewares\/geonetwork\/#1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/obelix:8080\/coursewares\/geoserver-std\/#3"
+                 "value":"http:\/\/obelix.camptocamp.com:8080\/coursewares\/geoserver-std\/#3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/obelix:8080\/coursewares\/geoserver-advanced\/#4"
+                 "value":"http:\/\/obelix.camptocamp.com:8080\/coursewares\/geoserver-advanced\/#4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/obelix:8080\/coursewares\/augeas\/#7"
+                 "value":"http:\/\/obelix.camptocamp.com:8080\/coursewares\/augeas\/#7"
                 }],
          "type":"tilelayer",
          "visible":false,
